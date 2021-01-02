@@ -1,0 +1,20 @@
+{
+  "name": "java-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@git.zhlh6.cn:ldbmcs/Java-Notes.git",
+  "author": "dengcs <ldbmcs@gmail.com>",
+  "license": "MIT",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs --silent"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.7.1",
+    "@vuepress/plugin-back-to-top": "^1.7.1",
+    "vuepress": "^1.7.1"
+  }
+}
