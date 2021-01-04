@@ -7,7 +7,7 @@ module.exports = [
             {text: 'Java 集合', link: '/md/java/'},
             {text: 'Java 并发', link: '/md/java/'},
             {text: 'Java IO/NIO/AIO', link: '/md/java/'},
-            {text: 'Java JVM', link: '/md/java/'},
+            {text: 'JVM', link: '/md/java/JVM/'},
             {text: 'Java 8+特性', link: '/md/java/'},
             {text: 'Java 设计模式', link: '/md/java/'}
         ]},
