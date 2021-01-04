@@ -4,16 +4,15 @@ module.exports =
             title: "Java",
             collapsable: false,
             path: '/md/java/',
-            sidebarDepth: 5,
+            sidebarDepth: 3,
             children: [
                 {
-                    title: "JVM",
+                    title: "Java JVM",
                     collapsable: false,
-                    path: '/md/java/JVM/',
-                    sidebarDepth: 3,
                     children: [
+                        '/md/java/JVM/',
                         '/md/java/JVM/java-jvm-class',
-                        '/md/java/JVM/java-jvm-classload',
+                        '/md/java/JVM/java-jvm-classloader',
                         '/md/java/JVM/java-jvm-struct',
                         '/md/java/JVM/java-jvm-introduce',
                         '/md/java/JVM/java-jvm-jmm',
