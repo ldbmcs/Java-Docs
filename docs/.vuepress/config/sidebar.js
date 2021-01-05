@@ -17,6 +17,7 @@ module.exports =
                         '/md/java/JVM/java-jvm-introduce',
                         '/md/java/JVM/java-jvm-jmm',
                         '/md/java/JVM/java-jvm-gc',
+                        '/md/java/JVM/java-jvm-zgc',
                         '/md/java/JVM/java-jvm-param',
                         '/md/java/JVM/java-jvm-oom'
                     ]
