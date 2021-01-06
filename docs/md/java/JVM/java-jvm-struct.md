@@ -1,6 +1,6 @@
 # JVM 基础 - JVM 内存结构
 
->![2021-01-06-JVM内存结构](https://image.ldbmcs.com/2021-01-06-JVM  内存结构.png)
+![2021-01-06-jvm-struct](https://image.ldbmcs.com/2021-01-06-jvm-struct.png)
 
 [[TOC]]
 
