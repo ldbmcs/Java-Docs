@@ -1,4 +1,4 @@
-# JVM 基础 - 来自JDK12的全新并发压缩垃圾回收器
+# JVM 基础 - 来自JDK12的全新并发压缩垃圾回收器Shenandoah GC
 
 [[TOC]]
 
