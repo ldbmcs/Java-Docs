@@ -31,6 +31,7 @@ module.exports =
                         '/md/java/JVM/java-jvm-oom',
                         '/md/java/JVM/java-jvm-thread-dump',
                         '/md/java/JVM/java-jvm-heap-dump',
+                        '/md/java/JVM/java-jvm-debug-tools-list',
                     ]
                 }
             ]
