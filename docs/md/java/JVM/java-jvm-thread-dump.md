@@ -1,4 +1,4 @@
-# 调试排错 - Java线程Dump分析
+# 调试排错 - Java Thread Dump分析
 
 [[TOC]]
 
