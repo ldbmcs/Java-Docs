@@ -28,7 +28,9 @@ module.exports =
                         '/md/java/JVM/java-jvm-zgc',
                         '/md/java/JVM/java-jvm-shenandoah',
                         '/md/java/JVM/java-jvm-param',
-                        '/md/java/JVM/java-jvm-oom'
+                        '/md/java/JVM/java-jvm-oom',
+                        '/md/java/JVM/java-jvm-thread-dump',
+                        '/md/java/JVM/java-jvm-heap-dump',
                     ]
                 }
             ]
